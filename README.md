@@ -23,7 +23,7 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Aspiring Data Scientist Student at Codeup
+        Senior Software Engineer with Grey Matters Defense Solutions
     <br><br>
     </h3>
     
@@ -31,10 +31,9 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science 20-Week program began on 17JAN2023, graduates 16JUN2023 and am ready to begin collaborating on projects
-- Served in the **U.S. Army** in Military Intelligence
+- Veteran of the **U.S. Army** and broad experience with DOD & Intelligence communitiies
 - Active TS/SCI (Top Secret/Sensitive Compartmented Information)
-- 📫 Reach me at **jared.wood135@gmail.com**
+- 📫 Reach me at **mawood33@hotmail.com**
 
 
 <!--- Social Networks - Connect with me -->
