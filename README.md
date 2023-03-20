@@ -58,7 +58,7 @@ This README.md file is my GitHub profile
 <body>
     <p align="left">
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://github.com/mawood33/tech-skill-icons/blob/main/jupyternotebook-icon.png" alt="jupyternotebook" width="40" height="40"/>
+        <img src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" alt="jupyternotebook" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
