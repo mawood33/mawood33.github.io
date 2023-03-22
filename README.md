@@ -70,7 +70,7 @@ This README.md file is my GitHub profile
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg" alt="redhat" width="40" height="40"/>
+        <img src="https://supportkb.dell.com/img/ka02R0000007t4DQAQ/ka02R0000007t4DQAQ_en_US_4.jpeg" alt="redhat" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
