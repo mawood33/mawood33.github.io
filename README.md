@@ -58,31 +58,47 @@ This README.md file is my GitHub profile
 <body>
     <p align="left">
         <a href="https://github.com/mawood33" target="_blank">
+        <img src="https://www.java.com/favicon.ico" alt="java" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mawood33" target="_blank">
+        <img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" alt="aws" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mawood33" target="_blank">
+        <img src="https://img.favpng.com/9/0/16/aws-lambda-amazon-web-services-serverless-computing-anonymous-function-amazon-dynamodb-png-favpng-3U8cqQvEeZwzDyZqNg8MJV9Qw.jpg" alt="aws lambda" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mawood33" target="_blank">
+        <img src="https://angular.io/assets/images/favicons/favicon-32x32.png" alt="angular" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mawood33" target="_blank">
+        <img src="https://nodejs.org/static/images/favicons/favicon.png" alt="node.js" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mawood33" target="_blank">
         <img src="https://www.kubeflow.org/docs/images/logos/Jupyter.png" alt="jupyternotebook" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://github.com/mawood33/tech-skill-icons/blob/main/python-icon.png" alt="python" width="40" height="40"/>
+        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://github.com/mawood33/tech-skill-icons/blob/main/vscode-icon.png" alt="vscode" width="40" height="40"/>
+        <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://github.com/mawood33/tech-skill-icons/blob/main/numpy-icon.png" alt="numpy" width="40" height="40"/>
+        <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://github.com/mawood33/tech-skill-icons/blob/main/pandas-icon.png" alt="pandas" width="40" height="40"/>
+        <img src="https://pandas.pydata.org/pandas-docs/stable/_static/favicon.ico" alt="pandas" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://github.com/mawood33/tech-skill-icons/blob/main/scipy-icon.png" alt="scipy" width="40" height="40"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://github.com/mawood33/tech-skill-icons/blob/main/sql-icon.png" alt="sql" width="40" height="40"/>
+        <img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="sql" width="40" height="40"/>
         </a>
     </p>
     <br>
