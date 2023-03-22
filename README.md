@@ -70,6 +70,10 @@ This README.md file is my GitHub profile
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
+        <img src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg" alt="redhat" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mawood33" target="_blank">
         <img src="https://angular.io/assets/images/favicons/favicon-32x32.png" alt="angular" width="40" height="40"/>
         </a>
         &nbsp;
