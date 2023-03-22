@@ -58,7 +58,7 @@ This README.md file is my GitHub profile
 <body>
     <p align="left">
         <a href="https://github.com/mawood33" target="_blank">
-        <img src="https://www.java.com/favicon.ico" alt="java" width="40" height="40"/>
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-14-logo.png" alt="java" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/mawood33" target="_blank">
